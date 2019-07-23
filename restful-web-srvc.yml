@@ -1,0 +1,6 @@
+---
+applications:
+  - name: restful-web-srvc
+    path: ./build/libs/restful-web-srvc-0.0.1-SNAPSHOT.jar
+    buildpack: java_buildpack
+    memory: 1G
